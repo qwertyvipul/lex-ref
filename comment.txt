@@ -1,0 +1,15 @@
+/*
+Greeting
+*/
+Hey there,
+
+/*
+Say something.
+*/
+You will not be able to see the comments in this file.
+But there are many.
+
+/*
+Wish Goodbye
+*/
+Bye Bye!

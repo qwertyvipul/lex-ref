@@ -1,0 +1,9 @@
+Hey there,
+this is a test file.
+A lex program
+is going to read
+all the lines and
+assign the line numbers
+to each line.
+
+WOW That's Awesome!
